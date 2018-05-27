@@ -8,6 +8,7 @@
   - [Wiki](#wiki)
   - [Forums](#forums)
 - [Mods](#mods)
+  - [Mod Loader](#mod-loader)
   - [Performance](#performance)
   - [Skins And Capes](#skins-and-capes)
 - [Server Plugins](#server-plugins)
@@ -32,6 +33,12 @@
 - [Minecraft(我的世界)中文论坛](http://www.mcbbs.net/) - Minecraft最大中文玩家综合社区
 
 ## Mods
+
+### Mod Loader
+
+- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+- [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
+- [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place
 
 ### Performance
 

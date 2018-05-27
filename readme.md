@@ -46,11 +46,11 @@
 
 ## Web Applications
 
-- [Blessing Skin Server](https://github.com/printempw/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers. ([Live Demo](https://skin.prinzeugen.net/))
+- [Blessing Skin Server](https://github.com/printempw/blessing-skin-server) - (PHP) A web application brings your custom skins back in offline Minecraft servers. ([Live Demo](https://skin.prinzeugen.net/))
 
 ## Softwares
 
-- [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data).
+- [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) - (Windows Only) A WPF Program about generate Minecraft Command (with NBT data).
 
 ## Development
 

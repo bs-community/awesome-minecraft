@@ -14,6 +14,7 @@
 - [Server Plugins](#server-plugins)
 - [Web Applications](#web-applications)
 - [Softwares](#softwares)
+  - [Utilities](#utilities)
 - [Development](#development)
   - [Tutorial](#tutorial)
   - [Tools](#tools)
@@ -57,6 +58,8 @@
 - [yoshino](https://github.com/idawnlight/yoshino) - A lite & fast Minecraft skin server, written in php. ([Live Demo](https://skin.lim-light.com/)) (PHP)
 
 ## Softwares
+
+### Utilities
 
 - [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 

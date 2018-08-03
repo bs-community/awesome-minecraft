@@ -15,6 +15,7 @@
 - [Web Applications](#web-applications)
 - [Softwares](#softwares)
   - [Utilities](#utilities)
+  - [Launchers](#launchers)
 - [Development](#development)
   - [Tutorial](#tutorial)
   - [Tools](#tools)
@@ -62,6 +63,11 @@
 ### Utilities
 
 - [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
+
+### Launchers
+
+- [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+- [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 
 ## Development
 

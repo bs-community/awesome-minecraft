@@ -2,7 +2,7 @@
 
 > The curated list of awesome things related to Minecraft.
 
-Minecraft is a sandbox video game developed by Mojang. The game allows players to build with a variety of different blocks in a 3D procedurally generated world, requiring creativity from players. Other activities in the game include exploration, resource gathering, crafting, and combat.
+[Minecraft](https://minecraft.net/) is a sandbox video game developed by Mojang. The game allows players to build with a variety of different blocks in a 3D procedurally generated world, requiring creativity from players. Other activities in the game include exploration, resource gathering, crafting, and combat.
 
 ## Contents
 

@@ -24,8 +24,6 @@
   - [Utilities](#utilities)
   - [Launchers](#launchers)
 - [Development](#development)
-  - [Tutorial](#tutorial)
-  - [Tools](#tools)
 
 ## Websites
 
@@ -105,11 +103,7 @@
 
 ## Development
 
-### Tutorial
-
 - [FML Mod Development Tutorial](https://fmltutor.ustc-zzzz.net/) - (Chinese) Minecraft 1.8.9 FML Mod Development Tutorial.
-
-### Tools
 
 ## License
 

@@ -85,6 +85,8 @@
 
 ## Server Plugins
 
+- [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
+
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/printempw/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers. ([Live Demo](https://skin.prinzeugen.net/))

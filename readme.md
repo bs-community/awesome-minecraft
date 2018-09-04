@@ -13,6 +13,11 @@
   - [Mod Loader](#mod-loader)
   - [Performance](#performance)
   - [Skins And Capes](#skins-and-capes)
+  - [Maps](#maps)
+  - [Items Management](#items-management)
+  - [Technology](#technology)
+  - [Farming And Food](#farming-and-food)
+  - [Energy](#energy)
 - [Server Plugins](#server-plugins)
 - [Web Applications](#web-applications)
 - [Softwares](#softwares)
@@ -52,6 +57,31 @@
 
 - [Custom Skin Loader](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 - [Universal Skin Mod](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures.
+
+### Maps
+
+- [Journey Map](https://minecraft.curseforge.com/projects/journeymap) - Real-time mapping in game or in a web browser as you explore.
+
+### Items Management
+
+- [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) - JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
+
+### Technology
+
+- [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) - Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else.
+- [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) - Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.
+- [Botania](https://github.com/Vazkii/Botania) - Botania is a tech mod in essence. The theme is natural magic.
+- [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) - A server-friendly and content-rich blend of magic and technology!
+- [Ender IO](https://github.com/CrazyPants/EnderIO) - Ender IO is a full-sized tech-mod.
+
+### Farming And Food
+
+- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam's HarvestCraft is a mod for Minecraft that currently adds many kinds of crops and food.
+
+### Energy
+
+- [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
+- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
 
 ## Server Plugins
 

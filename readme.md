@@ -74,6 +74,7 @@
 - [Botania](https://github.com/Vazkii/Botania) - Botania is a tech mod in essence. The theme is natural magic.
 - [Thermal Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) - A server-friendly and content-rich blend of magic and technology!
 - [Ender IO](https://github.com/CrazyPants/EnderIO) - Ender IO is a full-sized tech-mod.
+- [Railcraft](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
 
 ### Farming And Food
 

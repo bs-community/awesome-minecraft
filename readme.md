@@ -84,6 +84,10 @@
 - [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
 - [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
 
+### Tweaking
+
+- [TNTUtils](https://github.com/ljfa-ag/TNTUtils) - More control over explosions in Minecraft.
+
 ## Server Plugins
 
 - [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.

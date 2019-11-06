@@ -21,6 +21,7 @@
   - [Farming And Food](#farming-and-food)
   - [Energy](#energy)
   - [Tweaking](#tweaking)
+  - [Building](#building)
 - [Server Plugins](#server-plugins)
 - [Web Applications](#web-applications)
 - [Softwares](#softwares)
@@ -90,16 +91,23 @@
 
 - [TNTUtils](https://github.com/ljfa-ag/TNTUtils) - More control over explosions in Minecraft.
 
+### Building
+
+- [WorldEdit](https://github.com/EngineHub/WorldEdit) - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
+
 ## Server Plugins
 
 - [AntiCheatReloaded](https://github.com/Rammelkast/AntiCheatReloaded) - AntiCheatReloaded helps server admins easily identify and block malicious users by monitoring and analyzing the behaviour of their players.
 - [ViaVersion](https://github.com/MylesIsCool/ViaVersion) - Allows the connection of newer clients to older server versions for Minecraft servers.
 - [AdvancedKitsReloaded](https://github.com/TryHardDood/AdvancedKitsReloaded) - AdvancedKitsReloaded is a Kit managing plugin for Minecraft servers which runs Bukkit, CraftBukkit, Spigot and Paper (>1.8). With this plugin you can easily create/edit/delete your kits and you can customize it as much as you'd like.
+- [WorldGuard](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
+- [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/printempw/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers. ([Live Demo](https://skin.prinzeugen.net/))
 - [yoshino](https://github.com/idawnlight/yoshino) - A lite & fast Minecraft skin server, written in php. ([Live Demo](https://skin.lim-light.com/))
+- [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares
 
@@ -116,6 +124,7 @@
 ## Development
 
 - [FML Mod Development Tutorial](https://fmltutor.ustc-zzzz.net/) - (Chinese) Minecraft 1.8.9 FML Mod Development Tutorial.
+- [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
 
 ## License
 

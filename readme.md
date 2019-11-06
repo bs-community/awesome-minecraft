@@ -21,6 +21,7 @@
   - [Farming And Food](#farming-and-food)
   - [Energy](#energy)
   - [Tweaking](#tweaking)
+  - [Building](#building)
 - [Server Plugins](#server-plugins)
 - [Web Applications](#web-applications)
 - [Softwares](#softwares)

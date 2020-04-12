@@ -97,7 +97,7 @@
 - [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam's HarvestCraft is a mod for Minecraft that currently adds many kinds of crops and food.
 - [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft) - A mod that adds a more sophisticated crop system, like the ability to have genetic mutations and also adds more crops.
 - [Bonsai Trees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) - Adds essentially mini tree farms which are one block big.
-- [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) - A great mod for skyblocks, it filters things like sand and gravel for useful resources like iron and diamond, compatible with lots of mods. (Ex Nihilo: Creatio in latin roughly translates to Out of Nothing: I Create)
+- [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) - A great mod for skyblocks, it filters things like sand and gravel for useful resources like iron and diamond, compatible with lots of mods.
 
 ### Energy
 

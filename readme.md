@@ -118,7 +118,7 @@
 - [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) - A mod based on Morph-o-Tool, which mainly gives the ability to merge different mods' documentation books.
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - This mod does not change any existing mechanics, but simply makes the existing hunger saturation and exhaustion levels visible in the default GUI.
 - [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) - This mod fixes the attribute system in Minecraft which handles things like armour points, because many other mods are inadvertantly affected by a limit in this system.
-- [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) - "This mod modifies the way Minecraft calculates the collision boxes of the hopper, so that you can access any visible blocks behind it."
+- [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) - This mod modifies the way Minecraft calculates the collision boxes of the hopper, so that you can access any visible blocks behind it.
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) - Fixes various aspects of the Minecraft code, generally making the game faster.
 
 ### General

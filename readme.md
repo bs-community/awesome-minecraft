@@ -88,7 +88,8 @@
 - [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) - One of the best tech mod there is, but really overpowered in the late game. Adds things like a Draconic Power Core which no one has been able to fill yet...
 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - A large ender themed mod, that just adds lots of new fun things. (IO meaning input/output)
 - [Galacticraft](https://micdoodle8.com/mods/galacticraft) - A mod that adds rockets and new planets to explore. Expandable with addons.
-- [ComputerCraft](https://www.computercraft.info) - Adds computers based on LUA (5.2 and 5.3 as of writing) into Minecraft.
+- [OpenComputers](https://ocdoc.cil.li) - OpenComputers is a mod that adds computers and robots into the game, which can be programmed in Lua 5.3.
+- [ComputerCraft](https://www.computercraft.info) - Adds computers based on Lua (5.2 and 5.3) into Minecraft.
 - [WarpDrive](https://www.curseforge.com/minecraft/mc-mods/warpdrive) - Adds Star Trek and other franchise like ships, weapons, transporters and so on into the game. Also adds new planets (dimensions).
 
 ### Farming And Food

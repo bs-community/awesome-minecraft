@@ -72,7 +72,7 @@
 ### Items Management
 
 - [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) - JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
-- [Bibliocraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) - "Bibliocraft is a storage and organizational mod that began as a single bookcase and has expanded to so much more."
+- [Bibliocraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) - Bibliocraft is a storage and organizational mod that began as a single bookcase and has expanded to so much more.
 - [/dank/null](https://www.curseforge.com/minecraft/mc-mods/dank-null) - A storage mod of unreal proportions which nobody really gets. The max tier /dank/null object holds 54 slots of items which each can hold 2.14 billion items!
 
 ### Technology

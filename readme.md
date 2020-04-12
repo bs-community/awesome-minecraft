@@ -115,7 +115,7 @@
 ### Utilities
 
 - [TNTUtils](https://github.com/ljfa-ag/TNTUtils) - More control over explosions in Minecraft.
-- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) - A mod based on Morph-o-Tool, it mainly gives the ability to merge different mods' documentation books.
+- [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome) - A mod based on Morph-o-Tool, which mainly gives the ability to merge different mods' documentation books.
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - This mod does not change any existing mechanics, but simply makes the existing hunger saturation and exhaustion levels visible in the default GUI.
 - [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) - This mod fixes the attribute system in Minecraft which handles things like armour points, because many other mods are inadvertantly affected by a limit in this system.
 - [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) - "This mod modifies the way Minecraft calculates the collision boxes of the hopper, so that you can access any visible blocks behind it."

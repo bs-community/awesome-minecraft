@@ -58,7 +58,7 @@
 ### Performance
 
 - [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
-- [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - This is a mod that does what it says it does.
+- [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
 
 ### Skins And Capes
 

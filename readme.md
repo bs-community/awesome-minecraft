@@ -11,6 +11,7 @@
 - [Websites](#websites)
   - [Wiki](#wiki)
   - [Forums](#forums)
+- [Libraries](#libraries)
 - [Mod Loader](#mod-loader)
 - [Forge Mods](#forge-mods)
   - [Performance](#performance)
@@ -44,6 +45,12 @@
 - [Minecraft Forums](https://www.minecraftforum.net/) - Official community forums, a great place to talk about the game.
 - [Planet Minecraft](https://www.planetminecraft.com/forums/) - Creative community fansite.
 - [Minecraft Chinese Forum](http://www.mcbbs.net/) - Largest Chinese players community of Minecraft.
+
+## Libraries
+
+- [CraftLib](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more. 
+- [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
+- [node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
 
 ## Mod Loaders
 

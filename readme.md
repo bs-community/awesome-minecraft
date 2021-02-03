@@ -2,18 +2,18 @@
 
 <img src="screenshot.png" width="1920" />
 
-> This image contains mods.
+###### ***This image contains mods.***
 
-### The curated list of awesome things related to Minecraft.
+## The curated list of awesome things related to Minecraft.
 
-[Minecraft](https://minecraft.net/) is a sandbox video game developed by Mojang. The game allows players to build with a variety of different blocks in a 3D procedurally generated world, requiring creativity from players. Other activities in the game include exploration, resource gathering, crafting, and combat.
+[Minecraft](https://minecraft.net/) is a sandbox video game developed by Mojang Studios(now a subsidiary of Microsoft). The game allows players to build with a variety of different blocks in a 3D procedurally generated world, requiring creativity from players. Other activities in the game include exploration, resource gathering, crafting, and combat.
 
 ## Contents
 
 - [Websites](#websites)
   - [Wiki](#wiki)
   - [Forums](#forums)
-- [Mod Loader](#mod-loader)
+- [Mod Loaders](#mod-loaders)
 - [Forge Mods](#forge-mods)
   - [Performance](#performance)
   - [Skins And Capes](#skins-and-capes)
@@ -28,7 +28,7 @@
   - [Building](#building)
 - [Server Plugins](#server-plugins)
 - [Web Applications](#web-applications)
-- [Softwares](#softwares)
+- [Software](#software)
   - [Libraries](#libraries)
   - [Utilities](#utilities)
   - [Launchers](#launchers)
@@ -155,7 +155,7 @@
 - [yoshino](https://github.com/idawnlight/yoshino) - A lite & fast Minecraft skin server, written in php. ([Live Demo](https://skin.lim-light.com/))
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
-## Softwares
+## Software
 
 ### Libraries
 

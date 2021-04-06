@@ -11,7 +11,7 @@
 - [Websites](#websites)
   - [Wiki](#wiki)
   - [Forums](#forums)
-- [Mod Loader](#mod-loader)
+- [Mod Loaders](#mod-loaders)
 - [Forge Mods](#forge-mods)
   - [Performance](#performance)
   - [Skins And Capes](#skins-and-capes)

@@ -175,7 +175,9 @@
 - [Thermos](https://cyberdynecc.github.io/Thermos/install) - A server implementing the Forge and Bukkit API for 1.7.10.
 - [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - A server implementing the Forge and Bukkit API for 1.7.10.
 - [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
-- [PocketMine](https://www.pocketmine.net/?lang=de) - A Bedrock Edition Server pro
+- [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
+- [Nukkit/NukkitX](https://cloudburstmc.org/articles/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
+- [PocketMine](https://www.pocketmine.net/?lang=de) - A Bedrock Edition Server providing support for basic plugins.
 
 ### Libraries
 
@@ -206,5 +208,6 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTcyNTI1OCwtMTYzNjAwNDU1OV19
+eyJoaXN0b3J5IjpbLTE3MTg3NTM4MDEsLTE2MzYwMDQ1NTldfQ
+==
 -->

@@ -126,6 +126,8 @@
 - [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) - This mod fixes the attribute system in Minecraft which handles things like armour points, because many other mods are inadvertantly affected by a limit in this system.
 - [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) - This mod modifies the way Minecraft calculates the collision boxes of the hopper, so that you can access any visible blocks behind it.
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) - Fixes various aspects of the Minecraft code, generally making the game faster.
+- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - Shows the block currently looked at (Newer version of WAILA, Hwyla etc.)
+- [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - Shows the block currently looked at (Legacy alternative for older Minecraft versions than 1.6)
 
 ### General
 
@@ -172,8 +174,6 @@
 - [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 - [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
-- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - Shows the block currently looked at (Newer version of WAILA, Hwyla etc.)
-- [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - Shows the block currently looked at (Legacy alternative for older Minecraft versions than 1.6)
 
 ### Launchers
 
@@ -191,5 +191,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTY1MDA5N119
+eyJoaXN0b3J5IjpbLTE2MzYwMDQ1NTldfQ==
 -->

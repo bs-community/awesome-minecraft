@@ -26,6 +26,8 @@
   - [Exploration](#exploration)
   - [Building](#building)
 - [Server Plugins](#server-plugins)
+- [Resource Packs](#resource-packs)
+- [Shader Packs](#shader-packs)
 - [Web Applications](#web-applications)
 - [Softwares](#softwares)
   - [Servers](#servers)
@@ -161,6 +163,24 @@
 - [WorldGuard](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 - [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 
+## Resource Packs
+
+- [BDCraft](https://bdcraft.net/) - Various comic-style resource and sound packs, even for many mods, Bedrock Edition, and Terraria!
+- [LB Photo Realism Reload](https://www.curseforge.com/minecraft/texture-packs/lb-photo-realism-reload) - Successor of the LB Photo Realism texture pack making Minecraft look more realistic.
+- [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) - Dark Mode for the default Minecraft UIs!
+- [Cyber Optics](https://www.planetminecraft.com/texture-pack/cyber-optics-v10/) - Sci-Fi resource pack.
+- [Soartex](https://soartex.net/) - Smooth resource pack with mod support.
+- [Faithful](https://faithful.team/) - Smooth textures for a furbished default look.
+
+## Shader Packs
+
+- [Continuum](https://continuum.graphics/) - A realistic shader pack.
+- [Chocapic13](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) - A realistic and configurable shader pack.
+- [Sonic Ether](https://www.sonicether.com/) - Pathracing and other realistic shader packs.
+- [Sildur](https://sildurs-shaders.github.io/) - Shader packs even implementing Minecraft 1.16's built-in API.
+- [Potato](https://rre36.com/potato-shader) - A very lightweight shader pack for... well... potato PCs.
+- [ESBE 2G](https://mcbeeringi.github.io/esbe-2g/) - A shader pack for Bedrock Edition
+
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
@@ -214,5 +234,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjA4OTI1OF19
+eyJoaXN0b3J5IjpbLTM4ODMxMTY4MV19
 -->

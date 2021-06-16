@@ -32,7 +32,7 @@
 - [Softwares](#softwares)
   - [Servers](#servers)
   - [Libraries](#libraries)
-  - [Utilities](#utilities)
+  - [Utilities](#utilities-1)
   - [Launchers](#launchers)
 - [Development](#development)
 

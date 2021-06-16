@@ -50,9 +50,9 @@
 
 ### Archives
 
-- [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft Mods
-- [MCVersions](https://mcversions.net/) - Archives most Minecraft jars
-- [BetaCraft Archive](http://betacraft.pl/server-archive/minecraft/) - Archives some missing Minecraft server jars
+- [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft Mods.
+- [MCVersions](https://mcversions.net/) - Archives most Minecraft jars.
+- [BetaCraft Archive](http://betacraft.pl/server-archive/minecraft/) - Archives some missing Minecraft server jars.
 
 ## Mod Loaders
 
@@ -129,8 +129,8 @@
 - [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) - This mod fixes the attribute system in Minecraft which handles things like armour points, because many other mods are inadvertantly affected by a limit in this system.
 - [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) - This mod modifies the way Minecraft calculates the collision boxes of the hopper, so that you can access any visible blocks behind it.
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) - Fixes various aspects of the Minecraft code, generally making the game faster.
-- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - Shows the block currently looked at (Newer version of WAILA, Hwyla etc.)
-- [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - Shows the block currently looked at (Legacy alternative for older Minecraft versions than 1.6)
+- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - Shows the block currently looked at (Newer version of WAILA, Hwyla etc.).
+- [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - Shows the block currently looked at (Legacy alternative for older Minecraft versions than 1.6).
 
 ### General
 
@@ -167,10 +167,11 @@
 
 ### Servers
 
-- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options
-- [Glowstone](https://glowstone.net/) - Spigot Server alternative written from scratch with performance similar to Paper
-- [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API
-- [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API
+- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
+- [Glowstone](https://glowstone.net/) - Spigot Server alternative written from scratch with performance similar to Paper.
+- [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
+- [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API and is extensible to the Forge API and Bukkit API.
+- 
 
 ### Libraries
 
@@ -194,12 +195,12 @@
 
 - [FML Mod Development Tutorial](https://fmltutor.ustc-zzzz.net/) - (Chinese) Minecraft 1.8.9 FML Mod Development Tutorial.
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
-- [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models
-- [ModCoderPack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft
+- [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.
+- [ModCoderPack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzEyNDc0MywtMTYzNjAwNDU1OV19
+eyJoaXN0b3J5IjpbMjA5NDM1ODc2LC0xNjM2MDA0NTU5XX0=
 -->

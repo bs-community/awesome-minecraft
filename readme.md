@@ -168,13 +168,13 @@
 ### Servers
 
 - [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
-- [Glowstone](https://glowstone.net/) - Spigot Server alternative written from scratch with performance similar to Paper.
+- [Glowstone](https://glowstone.net/) - Formerly known as Spout and Thermos. Spigot Server alternative written from scratch with performance similar to Paper.
 - [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
 - [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API and is extensible to the Forge API and Bukkit API.
 - [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
 - [Thermos](https://cyberdynecc.github.io/Thermos/install) - A server implementing the Forge and Bukkit API for 1.7.10.
 - [KCauldron]()
-- [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+
+- [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
 
 ### Libraries
 
@@ -205,5 +205,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MzIzMzM5LC0xNjM2MDA0NTU5XX0=
+eyJoaXN0b3J5IjpbNzI2NDQyNzU3LC0xNjM2MDA0NTU5XX0=
 -->

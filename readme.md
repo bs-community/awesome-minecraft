@@ -28,6 +28,7 @@
 - [Server Plugins](#server-plugins)
 - [Web Applications](#web-applications)
 - [Softwares](#softwares)
+  - [Servers](#servers)
   - [Libraries](#libraries)
   - [Utilities](#utilities)
   - [Launchers](#launchers)
@@ -50,6 +51,8 @@
 ### Archives
 
 - [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft Mods
+- [MCVersions](https://mcversions.net/) - Archives most Minecraft jars
+- [Beta
 
 ## Mod Loaders
 
@@ -162,6 +165,10 @@
 
 ## Softwares
 
+### Servers
+
+- [](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
+
 ### Libraries
 
 - [CraftLib](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more. 
@@ -191,5 +198,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDU1OTk0LC0xNjM2MDA0NTU5XX0=
+eyJoaXN0b3J5IjpbODAyMTQ1NjMzLC0xNjM2MDA0NTU5XX0=
 -->

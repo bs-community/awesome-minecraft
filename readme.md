@@ -167,7 +167,8 @@
 
 ### Servers
 
-- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performan
+- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options
+- 
 
 ### Libraries
 
@@ -198,6 +199,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU5NzM3MTAsLTE2MzYwMDQ1NTldfQ
-==
+eyJoaXN0b3J5IjpbODQ2MzQ5NTc3LC0xNjM2MDA0NTU5XX0=
 -->

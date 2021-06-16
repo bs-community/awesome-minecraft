@@ -60,6 +60,7 @@
 - [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
 - [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
 - [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
+- [Rift](https://www.curseforge.com/minecraft/mc-mods/rift) - A Mod Loader for 1.13-1.13.2.
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 - [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
@@ -78,6 +79,7 @@
 ### Maps
 
 - [Journey Map](https://minecraft.curseforge.com/projects/journeymap) - Real-time mapping in game or in a web browser as you explore.
+- [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) - Formerly 
 
 ### Items Management
 
@@ -209,5 +211,6 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzI0NjQwNywtMTYzNjAwNDU1OV19
+eyJoaXN0b3J5IjpbLTE4NDEzNjQ0NDcsLTE2MzYwMDQ1NTldfQ
+==
 -->

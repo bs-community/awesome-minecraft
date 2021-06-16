@@ -167,7 +167,8 @@
 - [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 - [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
-- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - Shows the block c
+- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - Shows the block currently looked at (Newer version of WAILA, Hwyla etc.)
+- [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - Shows the block currently looked at (Legacy alternative for older Minecraft versions than 1.6)
 
 ### Launchers
 
@@ -183,5 +184,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM4NDEyNzRdfQ==
+eyJoaXN0b3J5IjpbMTc4NDY5NjUwNV19
 -->

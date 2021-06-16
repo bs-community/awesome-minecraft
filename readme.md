@@ -168,7 +168,9 @@
 ### Servers
 
 - [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options
-- [Glowstone](https://glowstone.net/) - Spigot Server alternative written from scratch
+- [Glowstone](https://glowstone.net/) - Spigot Server alternative written from scratch with performance similar to Paper
+- [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API
+- [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API
 
 ### Libraries
 
@@ -199,5 +201,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTQ1NzYxNywtMTYzNjAwNDU1OV19
+eyJoaXN0b3J5IjpbLTQ1MzEyNDc0MywtMTYzNjAwNDU1OV19
 -->

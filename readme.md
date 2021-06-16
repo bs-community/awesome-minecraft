@@ -57,6 +57,7 @@
 ## Mod Loaders
 
 - [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+- [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
 - [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
 - [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
@@ -208,6 +209,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg3NTM4MDEsLTE2MzYwMDQ1NTldfQ
-==
+eyJoaXN0b3J5IjpbLTkxMzI0NjQwNywtMTYzNjAwNDU1OV19
 -->

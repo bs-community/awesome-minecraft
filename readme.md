@@ -50,9 +50,10 @@
 
 ### Archives
 
-- [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft Mods.
+- [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft Mods. Various other mods and stuff can be found on their discord.
 - [MCVersions](https://mcversions.net/) - Archives most Minecraft jars.
 - [BetaCraft Archive](http://betacraft.pl/server-archive/minecraft/) - Archives some missing Minecraft server jars.
+- [MCPC+ Archive](https://iruril.tistory.com/category/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%28Minecraft%29/Server) - Archive with some MCPC+ versions.
 
 ## Mod Loaders
 
@@ -213,5 +214,6 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjEwODQ2LC0xNjM2MDA0NTU5XX0=
+eyJoaXN0b3J5IjpbLTE2Nzk1NTgwNzAsLTE2MzYwMDQ1NTldfQ
+==
 -->

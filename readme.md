@@ -52,7 +52,7 @@
 
 - [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft Mods
 - [MCVersions](https://mcversions.net/) - Archives most Minecraft jars
-- [Beta
+- [BetaCraft Archive](http://betacraft.pl/server-archive/minecraft/) - Archives some missing Minecraft server jars
 
 ## Mod Loaders
 
@@ -167,7 +167,7 @@
 
 ### Servers
 
-- [](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
+- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performan
 
 ### Libraries
 
@@ -198,5 +198,6 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyMTQ1NjMzLC0xNjM2MDA0NTU5XX0=
+eyJoaXN0b3J5IjpbLTE0ODU5NzM3MTAsLTE2MzYwMDQ1NTldfQ
+==
 -->

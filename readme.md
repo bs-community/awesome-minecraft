@@ -52,10 +52,12 @@
 
 ### Archives
 
-- [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft Mods. Various other mods and stuff can be found on their Discord.
+- [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft mods. Various other mods and stuff can be found on their Discord.
+- [Minecraft Archive Project](http://map.crummy.com/) - Huge archive containing Minecraft mods, worlds, resource packs and many other resources (even forum posts!).
 - [MCVersions](https://mcversions.net/) - Archives most Minecraft jars.
 - [BetaCraft Archive](http://betacraft.pl/server-archive/minecraft/) - Archives some missing Minecraft server jars.
 - [MCPC+ Archive](https://iruril.tistory.com/category/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%28Minecraft%29/Server) - Archive with some MCPC+ versions.
+- [CraftBukkit Archive](https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M) - Archives many CraftBukkit versions.
 
 ## Mod Loaders
 
@@ -63,7 +65,7 @@
 - [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
 - [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
 - [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
-- [Rift](https://www.curseforge.com/minecraft/mc-mods/rift) - A Mod Loader for 1.13-1.13.2.
+- [Rift](https://www.curseforge.com/minecraft/mc-mods/rift) - A Mod Loader for 1.13-1.13.2 (even Snapshots).
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 - [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
@@ -135,8 +137,11 @@
 - [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) - This mod fixes the attribute system in Minecraft which handles things like armour points, because many other mods are inadvertantly affected by a limit in this system.
 - [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) - This mod modifies the way Minecraft calculates the collision boxes of the hopper, so that you can access any visible blocks behind it.
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) - Fixes various aspects of the Minecraft code, generally making the game faster.
-- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - Shows the block currently looked at (Newer version of WAILA, Hwyla etc.).
-- [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - Shows the block currently looked at (Legacy alternative for older Minecraft versions than 1.6).
+- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - Shows the block currently looked at (Newer version of Hwyla).
+- [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla) - Shows the block currently looked at (Newer version of Waila).
+- [WorldInfo](https://www.curseforge.com/minecraft/mc-mods/worldinfo) - Shows the block currently looked at (Waila for Rift).
+- [Waila](https://www.curseforge.com/minecraft/mc-mods/waila) - Shows the block currently looked at (The original Waila project).
+- [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - Shows the block currently looked at (Legacy alternative of Waila for older Minecraft versions than 1.6).
 
 ### General
 

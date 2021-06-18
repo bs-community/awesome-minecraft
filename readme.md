@@ -11,6 +11,7 @@
 - [Websites](#websites)
   - [Wiki](#wiki)
   - [Forums](#forums)
+  - [Archives](#archives)
 - [Mod Loaders](#mod-loaders)
 - [Forge Mods](#forge-mods)
   - [Performance](#performance)
@@ -25,10 +26,13 @@
   - [Exploration](#exploration)
   - [Building](#building)
 - [Server Plugins](#server-plugins)
+- [Resource Packs](#resource-packs)
+- [Shader Packs](#shader-packs)
 - [Web Applications](#web-applications)
 - [Softwares](#softwares)
+  - [Servers](#servers)
   - [Libraries](#libraries)
-  - [Utilities](#utilities)
+  - [Utilities](#utilities-1)
   - [Launchers](#launchers)
 - [Development](#development)
 
@@ -46,11 +50,22 @@
 - [Planet Minecraft](https://www.planetminecraft.com/forums/) - Creative community fansite.
 - [Minecraft Chinese Forum](http://www.mcbbs.net/) - Largest Chinese players community of Minecraft.
 
+### Archives
+
+- [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft mods. Various other mods and stuff can be found on their Discord.
+- [Minecraft Archive Project](http://map.crummy.com/) - Huge archive containing Minecraft mods, worlds, resource packs and many other resources (even forum posts!).
+- [MCVersions](https://mcversions.net/) - Archives most Minecraft jars.
+- [BetaCraft Archive](http://betacraft.pl/server-archive/minecraft/) - Archives some missing Minecraft server jars.
+- [MCPC+ Archive](https://iruril.tistory.com/category/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%28Minecraft%29/Server) - Archive with some MCPC+ versions.
+- [CraftBukkit Archive](https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M) - Archives many CraftBukkit versions.
+
 ## Mod Loaders
 
 - [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+- [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
 - [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
 - [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
+- [Rift](https://www.curseforge.com/minecraft/mc-mods/rift) - A Mod Loader for 1.13-1.13.2 (even Snapshots).
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 - [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
@@ -69,6 +84,7 @@
 ### Maps
 
 - [Journey Map](https://minecraft.curseforge.com/projects/journeymap) - Real-time mapping in game or in a web browser as you explore.
+- [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) - Formerly known as Zan's Minimap, providing basic map and radar functionality.
 
 ### Items Management
 
@@ -121,6 +137,11 @@
 - [Attribute Fixer](https://www.curseforge.com/minecraft/mc-mods/attributefix) - This mod fixes the attribute system in Minecraft which handles things like armour points, because many other mods are inadvertantly affected by a limit in this system.
 - [Diet Hopper](https://www.curseforge.com/minecraft/mc-mods/diet-hoppers) - This mod modifies the way Minecraft calculates the collision boxes of the hopper, so that you can access any visible blocks behind it.
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) - Fixes various aspects of the Minecraft code, generally making the game faster.
+- [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit) - Shows the block currently looked at (Newer version of Hwyla).
+- [Hwyla](https://www.curseforge.com/minecraft/mc-mods/hwyla) - Shows the block currently looked at (Newer version of Waila).
+- [WorldInfo](https://www.curseforge.com/minecraft/mc-mods/worldinfo) - Shows the block currently looked at (Waila for Rift).
+- [Waila](https://www.curseforge.com/minecraft/mc-mods/waila) - Shows the block currently looked at (The original Waila project).
+- [Block Helper](https://www.curseforge.com/minecraft/mc-mods/block-helper) - Shows the block currently looked at (Legacy alternative of Waila for older Minecraft versions than 1.6).
 
 ### General
 
@@ -147,6 +168,24 @@
 - [WorldGuard](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 - [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 
+## Resource Packs
+
+- [BDCraft](https://bdcraft.net/) - Various comic-style resource and sound packs, even for many mods, Bedrock Edition, and Terraria!
+- [LB Photo Realism Reload](https://www.curseforge.com/minecraft/texture-packs/lb-photo-realism-reload) - Successor of the LB Photo Realism texture pack making Minecraft look more realistic.
+- [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) - Dark Mode for the default Minecraft UIs!
+- [Cyber Optics](https://www.planetminecraft.com/texture-pack/cyber-optics-v10/) - Sci-Fi resource pack.
+- [Soartex](https://soartex.net/) - Smooth resource pack with mod support.
+- [Faithful](https://faithful.team/) - Smooth textures for a furbished default look.
+
+## Shader Packs
+
+- [Continuum](https://continuum.graphics/) - A realistic shader pack.
+- [Chocapic13](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) - A realistic and configurable shader pack.
+- [Sonic Ether](https://www.sonicether.com/) - Pathracing and other realistic shader packs.
+- [Sildur](https://sildurs-shaders.github.io/) - Shader packs even implementing Minecraft 1.16's built-in API.
+- [Potato](https://rre36.com/potato-shader) - A very lightweight shader pack for older or restrained PCs.
+- [ESBE 2G](https://mcbeeringi.github.io/esbe-2g/) - A shader pack for Bedrock Edition.
+
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
@@ -154,6 +193,20 @@
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares
+
+### Servers
+
+- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
+- [Glowstone](https://glowstone.net/) - Formerly known as Spout and BukkitContrib. Spigot Server alternative written from scratch with performance similar to Paper.
+- [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
+- [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API and is extensible to the Forge API and Bukkit API.
+- [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
+- [Thermos](https://cyberdynecc.github.io/Thermos/install) - A server implementing the Forge and Bukkit API for 1.7.10.
+- [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - A server implementing the Forge and Bukkit API for 1.7.10.
+- [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
+- [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
+- [Nukkit/NukkitX](https://cloudburstmc.org/articles/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
+- [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 
 ### Libraries
 
@@ -177,6 +230,10 @@
 
 - [FML Mod Development Tutorial](https://fmltutor.ustc-zzzz.net/) - (Chinese) Minecraft 1.8.9 FML Mod Development Tutorial.
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
+- [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.
+- [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
+- [BON 2](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
+- [Bearded Octo Nemesis](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
 ## License
 

@@ -184,7 +184,7 @@
 - [Sonic Ether](https://www.sonicether.com/) - Pathracing and other realistic shader packs.
 - [Sildur](https://sildurs-shaders.github.io/) - Shader packs even implementing Minecraft 1.16's built-in API.
 - [Potato](https://rre36.com/potato-shader) - A very lightweight shader pack for... well... potato PCs.
-- [ESBE 2G](https://mcbeeringi.github.io/esbe-2g/) - A shader pack for Bedrock Edition
+- [ESBE 2G](https://mcbeeringi.github.io/esbe-2g/) - A shader pack for Bedrock Edition.
 
 ## Web Applications
 

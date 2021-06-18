@@ -206,7 +206,7 @@
 - [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
 - [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 - [Nukkit/NukkitX](https://cloudburstmc.org/articles/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
-- [PocketMine](https://www.pocketmine.net/?lang=de) - A Bedrock Edition Server providing support for basic plugins.
+- [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 
 ### Libraries
 

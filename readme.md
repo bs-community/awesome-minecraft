@@ -13,7 +13,7 @@
   - [Forums](#forums)
   - [Archives](#archives)
 - [Mod Loaders](#mod-loaders)
-- [Forge Mods](#forge-mods)
+- [Mods](#mods)
   - [Performance](#performance)
   - [Skins And Capes](#skins-and-capes)
   - [Maps](#maps)
@@ -69,7 +69,7 @@
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 - [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
-## Forge Mods
+## Mods
 
 ### Performance
 

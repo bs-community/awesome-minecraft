@@ -76,6 +76,7 @@
 - [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
 - [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+- [Iris (for Fabric)](https://irisshaders.net/) - A Fabric mod which is based upon Sodium to add Shader support.
 
 ### Skins And Capes
 
@@ -206,7 +207,7 @@
 - [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - A server implementing the Forge and Bukkit API for 1.7.10.
 - [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
 - [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
-- [Nukkit/NukkitX](https://cloudburstmc.org/articles/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
+- [Cloudburst/NukkitX/Nukkit](https://cloudburstmc.org/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
 - [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 
 ### Libraries

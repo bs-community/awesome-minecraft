@@ -179,7 +179,7 @@
 - [Cyber Optics](https://www.planetminecraft.com/texture-pack/cyber-optics-v10/) - Sci-Fi resource pack.
 - [Soartex](https://soartex.net/) - Smooth resource pack with mod support.
 - [Faithful](https://faithful.team/) - Smooth textures for a furbished default look.
-- [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) - "BetterVanillaBuilding is a recource pack that adds loads of new blocks with connected textures in optifine"
+- [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) - Adds loads of new blocks with connected textures in optifine.
 
 ## Shader Packs
 

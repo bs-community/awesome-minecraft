@@ -11,6 +11,7 @@
 - [Websites](#websites)
   - [Wiki](#wiki)
   - [Forums](#forums)
+  - [Mod Libraries](#mod-libraries)
   - [Archives](#archives)
 - [Mod Loaders](#mod-loaders)
 - [Mods](#mods)
@@ -49,6 +50,11 @@
 - [Minecraft Forums](https://www.minecraftforum.net/) - Official community forums, a great place to talk about the game.
 - [Planet Minecraft](https://www.planetminecraft.com/forums/) - Creative community fansite.
 - [Minecraft Chinese Forum](http://www.mcbbs.net/) - Largest Chinese players community of Minecraft.
+
+### Mod Libraries
+
+- [Modrinth](https://modrinth.com/) - Open source Minecraft mod library with powerful filtering.
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods) - The largest repository for Minecraft mods.
 
 ### Archives
 

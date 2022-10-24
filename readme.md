@@ -206,17 +206,18 @@
 
 ### Servers
 
-- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
+- [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
+- [Cloudburst/NukkitX/Nukkit](https://cloudburstmc.org/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
+- [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) - A self-hosted Minecraft server using Docker containers.
 - [Glowstone](https://glowstone.net/) - Formerly known as Spout and BukkitContrib. Spigot Server alternative written from scratch with performance similar to Paper.
+- [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - A server implementing the Forge and Bukkit API for 1.7.10.
+- [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
+- [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
+- [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
+- [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 - [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
 - [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API and is extensible to the Forge API and Bukkit API.
-- [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
 - [Thermos](https://cyberdynecc.github.io/Thermos/install) - A server implementing the Forge and Bukkit API for 1.7.10.
-- [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - A server implementing the Forge and Bukkit API for 1.7.10.
-- [Cauldron](https://sourceforge.net/projects/cauldron-unofficial/files/) - Formerly known as MCPC+. The original server implementing the Forge and Bukkit API.
-- [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
-- [Cloudburst/NukkitX/Nukkit](https://cloudburstmc.org/) - A Bedrock Edition Server providing support for plugins supporting the Nukkit API.
-- [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
 
 ### Libraries
 

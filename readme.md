@@ -219,7 +219,7 @@
 - [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
 - [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API and is extensible to the Forge API and Bukkit API.
 - [Thermos](https://cyberdynecc.github.io/Thermos/install) - A server implementing the Forge and Bukkit API for 1.7.10.
-- [Gate](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Golang
+- [Gate](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Go.
 
 ### Libraries
 

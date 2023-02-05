@@ -8,6 +8,7 @@
 
 ## Contents
 
+<!-- no toc -->
 - [Websites](#websites)
   - [Wiki](#wiki)
   - [Forums](#forums)
@@ -22,6 +23,7 @@
   - [Technology](#technology)
   - [Farming And Food](#farming-and-food)
   - [Energy](#energy)
+  - [Magic](#magic)
   - [Utilities](#utilities)
   - [General](#general)
   - [Exploration](#exploration)
@@ -110,7 +112,7 @@
 - [Railcraft](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
 - [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions) - Actually Additions is a technology mod that adds various utilities like multitools, item magnets, atomic reconstructors and so on.
 - [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.
-- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) - One of the best tech mod there is, but really overpowered in the late game. Adds things like a Draconic Power Core which no one has been able to fill yet...
+- [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution) - One of the best tech mod there is, but really overpowered in the late game. Adds a lot of new items and machines.
 - [Ender IO](https://www.curseforge.com/minecraft/mc-mods/ender-io) - A large ender themed mod, that just adds lots of new fun things.
 - [Galacticraft](https://micdoodle8.com/mods/galacticraft) - A mod that adds rockets and new planets to explore. Expandable with addons.
 - [OpenComputers](https://ocdoc.cil.li) - OpenComputers is a mod that adds computers and robots into the game, which can be programmed in Lua 5.3.
@@ -129,7 +131,6 @@
 - [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
 - [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) - Adds nuclear reactors with the fictional fuel 'yellorium'. A carry on of the original Big Reactors.
 - [Zetta Industries](https://www.curseforge.com/minecraft/mc-mods/zetta-industries) - A mod which adds the main multiblock of a big battery.
-- [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.
 
 ### Magic
 
@@ -223,9 +224,9 @@
 
 ### Libraries
 
-- [CraftLib](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more. 
+- [CraftLib](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
 - [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
-- [node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
+- [node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - A Node.js library to parse and serialize minecraft packets, plus authentication and encryption.
 - [go-mcproto](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
 
 ### Utilities
@@ -248,6 +249,3 @@
 - [BON 2](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
 - [Bearded Octo Nemesis](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

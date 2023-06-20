@@ -212,6 +212,8 @@
 - [Docker-Minecraft](https://github.com/itzg/docker-minecraft-server) - A self-hosted Minecraft server using Docker containers.
 - [Glowstone](https://glowstone.net/) - Formerly known as Spout and BukkitContrib. Spigot Server alternative written from scratch with performance similar to Paper.
 - [KCauldron](https://sourceforge.net/projects/kcauldron/files/) - A server implementing the Forge and Bukkit API for 1.7.10.
+- [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) - PaperMC server with out of the box Geyser and Floodgate support using docker.
+- [minecraft-docker](https://github.com/tywil04/minecraft-docker) - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) that embeds a discord bot for easy starting and stopping of the server.
 - [Minestom](https://minestom.net/) - Lightweight from-scratch server implementation.
 - [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
 - [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.

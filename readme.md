@@ -190,13 +190,13 @@
 
 ## Shader Packs
 
-- [White Wolf Shader](https://github.com/NotSnipc/WhiteWolfShaders) - Shader pack for Bedrock Edition focused on improving your gameplay experience.
 - [Continuum](https://continuum.graphics/) - A realistic shader pack.
 - [Chocapic13](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) - A realistic and configurable shader pack.
 - [Sonic Ether](https://www.sonicether.com/) - Pathracing and other realistic shader packs.
 - [Sildur](https://sildurs-shaders.github.io/) - Shader packs even implementing Minecraft 1.16's built-in API.
 - [Potato](https://rre36.com/potato-shader) - A very lightweight shader pack for older or restrained PCs.
 - [ESBE 2G](https://mcbeeringi.github.io/esbe-2g/) - A shader pack for Bedrock Edition.
+- [White Wolf Shader](https://github.com/NotSnipc/WhiteWolfShaders) - Shader pack for Bedrock Edition focused on improving your gameplay experience.
 
 ## Web Applications
 

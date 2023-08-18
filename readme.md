@@ -190,6 +190,7 @@
 
 ## Shader Packs
 
+- [White Wolf Shader](https://github.com/NotSnipc/WhiteWolfShaders) - Shader pack for Bedrock Edition focused on improving your gameplay experience.
 - [Continuum](https://continuum.graphics/) - A realistic shader pack.
 - [Chocapic13](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) - A realistic and configurable shader pack.
 - [Sonic Ether](https://www.sonicether.com/) - Pathracing and other realistic shader packs.

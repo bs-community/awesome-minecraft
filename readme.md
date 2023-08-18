@@ -242,8 +242,7 @@
 - [MultiMC](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [Prism](https://prismlauncher.org) - A fork of MultiMC, capable of downloading modpacks and other resources directly from CurseForge and FTB.
 - [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
-- [XMCL](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods, shader packs.
-
+- [XMCL](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
 
 ## Development
 

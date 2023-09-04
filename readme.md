@@ -27,6 +27,7 @@
   - [Exploration](#exploration)
   - [Building](#building)
 - [Server Plugins](#server-plugins)
+- [Server Hostings](#server-hostings)
 - [Resource Packs](#resource-packs)
 - [Shader Packs](#shader-packs)
 - [Web Applications](#web-applications)
@@ -177,6 +178,12 @@
 - [WorldGuard](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 - [CraftBook](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 - [Connect](https://connect.minekube.com/) - Open shared Minecraft network for advertising public and local host servers.
+
+## Server Hostings
+
+- [Aternos](https://aternos.org) - Aternos is a leader in providing on-demand Minecraft game servers, serving free services to more than 77,000,000 players.
+- [ScalaCube](https://scalacube.com/) - Scalacube offers game server hosting plans starting from just $2/month.
+- [MINECRAFT REALMS](https://www.minecraft.net/en-us/realms) - Realms are personal multiplayer servers, run by Minecraft, just for you and your friends.
 
 ## Resource Packs
 

@@ -236,6 +236,7 @@
 
 ### Utilities
 
+- [Cloud Seeder](https://ipv6.rs/cloudseeder) - 1-click Installer and Upgrader to run a Minecraft server, hands free, from your Windows, Mac or Linux computer (GoLang).
 - [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 - [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.

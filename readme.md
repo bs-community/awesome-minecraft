@@ -50,6 +50,10 @@
 - [Minecraft Forums](https://www.minecraftforum.net/) - Official community forums, a great place to talk about the game.
 - [Planet Minecraft](https://www.planetminecraft.com/forums/) - Creative community fansite.
 
+### Tools
+
+- [MCDOC](https://mcdoc.openm.tech/) - The Index of Minecraft Tools and Unlockers
+
 ### Mod Libraries
 
 - [Modrinth](https://modrinth.com/) - Open source Minecraft mod library with powerful filtering.

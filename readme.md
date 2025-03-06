@@ -68,6 +68,7 @@
 - [MCModArchive server section](https://mcmodarchive.femtopedia.de/#Server%20Software/) - Archive with some MCPC+, hMod, Canary, Cauldron etc. versions.
 - [Eimer Archive](https://eimerarchive.org/) - Archive with a focus on server software and plugins.
 - [CraftBukkit Archive](https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M) - Archives many CraftBukkit versions.
+- [OmniArchive](https://omniarchive.uk/) - Archives various Minecraft versions.
 
 ## Mod Loaders
 

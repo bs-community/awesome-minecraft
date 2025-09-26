@@ -72,9 +72,10 @@
 
 ## Mod Loaders
 
-- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
-- [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
 - [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
+- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+- [NeoForge](https://neoforged.net/) - A fork of Forge that aims to improve Forge's flexibility, performance, and community involvement.
+- [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
 - [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 - [Rift](https://www.curseforge.com/minecraft/mc-mods/rift) - A Mod Loader for 1.13-1.13.2 (even Snapshots).
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.

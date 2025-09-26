@@ -43,9 +43,9 @@
 ### Wiki
 
 - [Official Minecraft Wiki](https://minecraft.wiki/) - Minecraft Wiki is a complete resource for Minecraft, including gameplay, blocks, crafting, updates, events, mods, running a server, and resource packs.
-- [Chinese Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) - The Chinese Minecraft Wiki is an official wiki of Minecraft, covering detailed tutorials on crafting, blocks, creatures and even PE versions.
+- [Chinese Minecraft Wiki](https://zh.minecraft.wiki) - The Chinese Minecraft Wiki is an official wiki of Minecraft, covering detailed tutorials on crafting, blocks, creatures and even PE versions.
 - [MinecraftSearch](https://minecraftsearch.com/) – MinecraftSearch is an unofficial Minecraft Wiki with better user navigation that focuses on crafting, enchanting, villager trades, loot tables and a lot more.
-- [wiki.vg](http://wiki.vg/) - Technical Minecraft wiki.
+- [Protocol documentation](https://minecraft.wiki/w/Minecraft_Wiki:Protocol_documentation) - Technical Minecraft wiki.
 
 ### Forums
 
@@ -192,6 +192,7 @@
 - [Cyber Optics](https://www.planetminecraft.com/texture-pack/cyber-optics-v10/) - Sci-Fi resource pack.
 - [Soartex](https://soartex.net/) - Smooth resource pack with mod support.
 - [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) - Adds loads of new blocks with connected textures in optifine.
+- [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) - Overhaul to most mobs in the default look of Minecraft. The aim is to make the mobs more dynamic and believable.
 
 ## Shader Packs
 
@@ -249,6 +250,7 @@
 - [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 - [XMCL](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
 - [Polymerium](https://github.com/d3ara1n/Polymerium) - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
+- [Modrinth](https://modrinth.com/app) - Open source launcher that allows you to play your favorite mods, and keep them up to date, all in one neat little package.
 
 ## Development
 

@@ -62,23 +62,19 @@
 
 ### Archives
 
+- [Omniarchive](https://omniarchive.uk/) - Archives most Minecraft jars.
 - [MCModArchive](https://mcmodarchive.femtopedia.de/) - Archives old, lost and forgotten Minecraft mods and related software. Various other mods and stuff can be found on the [MCArchive Discord](https://discord.gg/WuexGpP).
 - [Minecraft Archive Project](http://map.crummy.com/) - Huge archive containing Minecraft mods, worlds, resource packs and many other resources (even forum posts!).
 - [Eimer Archive](https://eimerarchive.org/) - Archive with a focus on server software and plugins.
 - [CraftBukkit Archive](https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M) - Archives many CraftBukkit versions.
-- [OmniArchive](https://omniarchive.uk/) - Archives most Minecraft jars.
 - [MCVersions](https://mcversions.net/) - Archives various Minecraft jars.
 
 ## Mod Loaders
 
 - [Fabric](https://fabricmc.net/) - A lightweight, experimental modding toolchain for Minecraft.
-- [Minecraft Forge](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+- [Minecraft Forge](https://minecraftforge.net/) - Modifications to the Minecraft base files to assist in compatibility between mods.
 - [NeoForge](https://neoforged.net/) - A fork of Forge that aims to improve Forge's flexibility, performance, and community involvement.
 - [Quilt](https://quiltmc.org/) - A powerful fork of the Fabric project.
-- [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
-- [Rift](https://www.curseforge.com/minecraft/mc-mods/rift) - A Mod Loader for 1.13-1.13.2 (even Snapshots).
-- [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
-- [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
 
 ## Mods
 

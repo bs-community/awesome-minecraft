@@ -80,33 +80,37 @@
 
 ### Performance
 
-- [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
-- [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
 - [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 - [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
+- [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
+- [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
 
 ### Skins And Capes
 
+- [Capes](https://modrinth.com/mod/capes) - A Fabric and Forge mod that lets you use capes from Optifine, LabyMod, and the MinecraftCapes Mod.
+- [Ears](https://modrinth.com/mod/ears) - More skin customization options for just about every version + skin back​ports/fixes for pre-1.9 versions.
 - [Custom Skin Loader](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 - [Universal Skin Mod](https://github.com/RecursiveG/UniSkinMod) - A Minecraft Forge Mod allows players load custom skin & cape textures.
 
 ### Maps
 
-- [Journey Map](https://minecraft.curseforge.com/projects/journeymap) - Real-time mapping in game or in a web browser as you explore.
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) - Xaero's minimap keeps the aesthetic of vanilla Minecraft, which helps it be a more seamless addition to the game.
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) - Adds a full screen world map which shows you what you have explored in the world.
+- [Journey Map](https://www.curseforge.com/minecraft/mc-mods/journeymap) - Real-time mapping in game or in a web browser as you explore.
 - [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) - Formerly known as Zan's Minimap, providing basic map and radar functionality.
 
 ### Items Management
 
-- [Just Enough Items (JEI)](https://minecraft.curseforge.com/projects/jei) - JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
+- [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) - JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
 - [Bibliocraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) - Bibliocraft is a storage and organizational mod that began as a single bookcase and has expanded to so much more.
 - [/dank/null](https://www.curseforge.com/minecraft/mc-mods/dank-null) - A storage mod of unreal proportions which nobody really gets. The max tier /dank/null object holds 54 slots of items which each can hold 2.14 billion items!
 
 ### Technology
 
-- [Tinkers Construct](https://minecraft.curseforge.com/projects/tinkers-construct) - Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else.
-- [Immersive Engineering](https://minecraft.curseforge.com/projects/immersive-engineering) - Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.
+- [Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct) - Tinkers' Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else.
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) - Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.
 - [Botania](https://github.com/Vazkii/Botania) - Botania is a tech mod in essence. The theme is natural magic.
-- [Thermal Foundation + Dynamics + Expansion](https://minecraft.curseforge.com/projects/thermalexpansion) - A server-friendly and content-rich blend of magic and technology! Title is three different mod names, but of the same series and usually played together.
+- [Thermal Foundation + Dynamics + Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) - A server-friendly and content-rich blend of magic and technology! Title is three different mod names, but of the same series and usually played together.
 - [Railcraft](https://github.com/Railcraft/Railcraft) - Greatly expand and improve the Minecart system in Minecraft.
 - [Actually Additions](https://www.curseforge.com/minecraft/mc-mods/actually-additions) - Actually Additions is a technology mod that adds various utilities like multitools, item magnets, atomic reconstructors and so on.
 - [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world. Mainly focused on item storage.
@@ -119,14 +123,14 @@
 
 ### Farming And Food
 
-- [Pam's HarvestCraft](https://minecraft.curseforge.com/projects/pams-harvestcraft) - Pam's HarvestCraft is a mod for Minecraft that currently adds many kinds of crops and food.
+- [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft) - Pam's HarvestCraft is a mod for Minecraft that currently adds many kinds of crops and food.
 - [AgriCraft](https://www.curseforge.com/minecraft/mc-mods/agricraft) - A mod that adds a more sophisticated crop system, like the ability to have genetic mutations and also adds more crops.
 - [Bonsai Trees](https://www.curseforge.com/minecraft/mc-mods/bonsai-trees) - Adds essentially mini tree farms which are one block big.
 - [Ex Nihilo: Creatio](https://www.curseforge.com/minecraft/mc-mods/ex-nihilo-creatio) - A great mod for skyblocks, it filters things like sand and gravel for useful resources like iron and diamond, compatible with lots of mods.
 
 ### Energy
 
-- [RFTools](https://minecraft.curseforge.com/projects/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
+- [RFTools](https://www.curseforge.com/minecraft/mc-mods/rftools) - RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
 - [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors) - Adds nuclear reactors with the fictional fuel 'yellorium'. A carry on of the original Big Reactors.
 - [Zetta Industries](https://www.curseforge.com/minecraft/mc-mods/zetta-industries) - A mod which adds the main multiblock of a big battery.
 - [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world.

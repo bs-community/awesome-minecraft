@@ -53,7 +53,7 @@
 
 ### Indexes
 
-- [MCDOC](https://mcdoc.openm.tech/) - The Index of Minecraft Tools and Unlockers
+- [MCDOC](https://mcdoc.site/) - The Index of Minecraft Tools and Unlockers
 
 ### Mod Libraries
 

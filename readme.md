@@ -45,7 +45,6 @@
 - [Official Minecraft Wiki](https://minecraft.wiki/) - Minecraft Wiki is a complete resource for Minecraft, including gameplay, blocks, crafting, updates, events, mods, running a server, and resource packs.
 - [Chinese Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) - The Chinese Minecraft Wiki is an official wiki of Minecraft, covering detailed tutorials on crafting, blocks, creatures and even PE versions.
 - [MinecraftSearch](https://minecraftsearch.com/) – MinecraftSearch is an unofficial Minecraft Wiki with better user navigation that focuses on crafting, enchanting, villager trades, loot tables and a lot more.
-- [wiki.vg](http://wiki.vg/) - Technical Minecraft wiki.
 
 ### Forums
 
@@ -79,6 +78,7 @@
 - [Rift](https://www.curseforge.com/minecraft/mc-mods/rift) - A Mod Loader for 1.13-1.13.2 (even Snapshots).
 - [Meddle](https://github.com/FyberOptic/Meddle) - Everything related to modding 1.9/1.10 snapshots in one place.
 - [RopeMC](https://github.com/RopeMC/RopeMC) - A lightweight, reflection based mod loader which aims to be user friendly and later version independent.
+- [NeoForge](https://neoforged.net/) - A community-driven, fork of Minecraft Forge, run by the same developers with a focus on compatibility, and collaboration.
 
 ## Mods
 
@@ -172,6 +172,7 @@
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) - This mod adds multiple new textures to lots of blocks in the game, adding a wide variety of textures. (For editing units smaller than blocks see Chisel and Bits.)
 - [WorldEdit](https://github.com/EngineHub/WorldEdit) - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
 - [FAWE](https://intellectualsites.github.io/download/fawe.html) - Stands for Fast Async WorldEdit. Based upon WorldEdit, it is simply faster, and adds lots more tools (i.e. brushes) to work with.
+- [Axiom](https://axiom.moulberry.com/) - Axiom is an all-in-one tool for Minecraft editing. It merges the capabilities of 3D software with a sleek interface and an innovative toolset.
 
 ## Server Plugins
 

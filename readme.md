@@ -172,6 +172,7 @@
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) - This mod adds multiple new textures to lots of blocks in the game, adding a wide variety of textures. (For editing units smaller than blocks see Chisel and Bits.)
 - [WorldEdit](https://github.com/EngineHub/WorldEdit) - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
 - [FAWE](https://intellectualsites.github.io/download/fawe.html) - Stands for Fast Async WorldEdit. Based upon WorldEdit, it is simply faster, and adds lots more tools (i.e. brushes) to work with.
+- [Axiom](https://axiom.moulberry.com/) - Axiom is an all-in-one tool for Minecraft editing. It merges the capabilities of 3D software with a sleek interface and an innovative toolset.
 
 ## Server Plugins
 

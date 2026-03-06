@@ -241,6 +241,7 @@
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 - [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
 - [NBTEditor](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+- [Minecraft ServerHub](https://minecraft-serverhub.com) - Free Minecraft server list with 1,000+ servers, real-time server status checker, MOTD creator, and REST API.
 
 ### Launchers
 

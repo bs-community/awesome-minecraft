@@ -240,6 +240,7 @@
 - [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 - [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
+- [Minecraft-Youtube-Follower](https://github.com/GeiserX/Minecraft-Youtube-Follower) - 24/7 automated spectator bot that follows players with a smart third-person camera and streams to YouTube/Twitch. (JavaScript/Docker)
 - [NBTEditor](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
 
 ### Launchers

@@ -55,6 +55,7 @@
 ### Indexes
 
 - [MCDOC](https://mcdoc.openm.tech/) - The Index of Minecraft Tools and Unlockers
+- [Astroworld API](https://api.astroworldmc.com) - Free public Minecraft data API for mobs, biomes, items, enchantments, structures, commands, versions, achievements, and trades. CORS enabled.
 
 ### Mod Libraries
 
@@ -183,6 +184,7 @@
 - [Connect](https://connect.minekube.com/) - Open shared Minecraft network for advertising public and local host servers.
 - [LuckPerms](https://luckperms.net/) - Manage permissions.
 - [CoreProtect](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
+- [Astroworld Plugins](https://github.com/astroworld-mc) - Collection of seven lightweight MIT-licensed Paper plugins: AstroSimpleAFK, AstroCustomMOTD, AstroJoinLeave, AstroPlayerStats, AstroAutoSave, AstroBackCooldown, and AstroChatBot.
 
 ## Resource Packs
 
@@ -207,6 +209,7 @@
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
+- [Astroworld Tools](https://tools.astroworldmc.com) - Free web tools for Minecraft server admins: RAM calculator, cost calculator, MOTD generator, status checker, color and gradient pickers.
 
 ## Softwares
 

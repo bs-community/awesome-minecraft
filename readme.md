@@ -241,6 +241,7 @@
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 - [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
 - [NBTEditor](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+- [Fabricator](https://fabricator.site/) - A self-hosted web dashboard for managing Minecraft servers with support for Fabric, Quilt, NeoForge, Forge, and Vanilla.
 
 ### Launchers
 

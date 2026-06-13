@@ -249,6 +249,7 @@
 - [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 - [XMCL](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
 - [Polymerium](https://github.com/d3ara1n/Polymerium) - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
+- [PCL](https://github.com/Meloong-Git/PCL) - Plain Craft Launcher (PCL, also called PCL2) is a powerful, ready-to-use Minecraft launcher.
 
 ## Development
 

@@ -238,6 +238,7 @@
 
 - [Minecraft Command Helper](https://github.com/IceLitty/Minecraft-Command-Helper) - A WPF Program about generate Minecraft Command (with NBT data). (Windows Only)
 - [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
+- [MoonProxy](https://moonproxy.app) - A desktop GUI client for FRP (intranet penetration / remote access), making it easy to expose a local Minecraft server to friends. ([Source Code](https://github.com/MoonProxyHQ/moonproxy-desktop))
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 - [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
 - [NBTEditor](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.

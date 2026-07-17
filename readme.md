@@ -69,6 +69,8 @@
 - [CraftBukkit Archive](https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M) - Archives many CraftBukkit versions.
 - [OmniArchive](https://omniarchive.uk/) - Archives most Minecraft jars.
 - [MCVersions](https://mcversions.net/) - Archives various Minecraft jars.
+- [The Shulker Archives](https://kadthehunter.github.io/ShulkerArchives/) - Archives component data in the form of Shulker Kits, Items, Books and more.
+- [NBT Library](https://kadthehunter.github.io/NBT-Library/#!) - The successor to The Shulker Archives. It archives meticulously curated hotbars full of items, kits, books, and more.
 
 ## Mod Loaders
 

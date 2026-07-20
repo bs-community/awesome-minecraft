@@ -206,6 +206,7 @@
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+- [Verity Mod Source Checker](https://veritymodchecker.online/) - Identifies the official Verity Java and Bedrock projects, checks compatible versions, and computes a downloaded file's SHA-256 locally without hosting file mirrors.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares

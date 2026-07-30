@@ -249,6 +249,7 @@
 - [HMCL](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 - [XMCL](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
 - [Polymerium](https://github.com/d3ara1n/Polymerium) - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
+- [Onyx Launcher](https://github.com/lonestill/onyx-launcher) - Open-source Minecraft launcher with isolated instances, Modrinth modpacks, automatic Java, crash diagnostics, and safe backups. (Windows and Linux)
 
 ## Development
 

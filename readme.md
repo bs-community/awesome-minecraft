@@ -206,6 +206,7 @@
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+- [CraftQuiver](https://craftquiver.com/) - Crafting recipe reference with a material calculator for any item and quantity, shareable resource lists, an anvil enchantment cost optimizer and a Nether/Overworld coordinate converter.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares

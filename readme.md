@@ -206,6 +206,7 @@
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+- [ServerBuddy](https://serverbuddy.net/) - Web app for discovering Java and Bedrock servers with live status, player-count history, uptime, MOTD and version history, and browser-based server tools.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares

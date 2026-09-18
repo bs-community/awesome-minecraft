@@ -240,6 +240,7 @@
 - [Minecraft Command Science](https://minecraftcommand.science/) - Several Minecraft vanilla JSON generators.
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 - [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
+- [Arnis](https://github.com/louis-e/arnis) - Open-source tool that generates real-world Minecraft worlds from OpenStreetMap data, including terrain and buildings.
 - [NBTEditor](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
 
 ### Launchers

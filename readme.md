@@ -241,6 +241,7 @@
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 - [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
 - [NBTEditor](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+- [FelixIAMinecraft](https://github.com/Muurrcc/FelixIAMinecraft) - A local AI companion that joins your world as a player to chat, gather and build, running offline through Ollama. (Windows Only)
 
 ### Launchers
 

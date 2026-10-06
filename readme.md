@@ -241,6 +241,8 @@
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 - [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
 - [NBTEditor](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+- [Forge Server Doctor](https://github.com/Jaakoby/forge-server-doctor) - Reads a Forge or NeoForge crash report and names the mod in the stack trace that caused it. (Python, CLI)
+- [Pack Doctor](https://github.com/Jaakoby/pack-doctor) - Finds the IDs your datapacks, KubeJS scripts and quests reference that no installed mod registers, which silently give the player nothing and never log an error. (Python, CLI)
 
 ### Launchers
 

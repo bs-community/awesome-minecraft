@@ -206,6 +206,8 @@
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+- [ChunkSeeds](https://chunkseeds.com/) - Paste any Java or Bedrock seed to render its biome map and structure coordinates in the browser, plus a library of verified seeds.
+- [Minecraft Skin Lab](https://minecraftskinlab.com/) - Browse and 3D-preview free skins for Java and Bedrock, download the 64×64 skin template and look up any player's skin.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares

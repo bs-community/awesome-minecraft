@@ -205,6 +205,7 @@
 
 ## Web Applications
 
+- [BestMCServerList Tools](https://bestmcserverlist.net/tools) - Free browser tools for server owners (no account): DeluxeMenus GUI maker with ItemsAdder/Nexo/Oraxen backgrounds, LuckPerms rank prefix generator, MOTD generator with live preview, 64×64 server icon maker and animated banner studio. Web.
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 

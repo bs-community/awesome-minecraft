@@ -252,6 +252,8 @@
 
 ## Development
 
+- [Universal Modder Minecraft Tutorial](https://universalmodder.dev/guides/minecraft-first-mod/) - Independent Minecraft Java 1.21.1 / NeoForge tutorial for a Copper Token item and recipe, with source files, build instructions, and isolated JAR verification steps.
+
 - [FML Mod Development Tutorial](https://fmltutor.ustc-zzzz.net/) - (Chinese) Minecraft 1.8.9 FML Mod Development Tutorial.
 - [SchematicWebViewer](https://github.com/EngineHub/SchematicWebViewer) - A JavaScript/TypeScript library for rendering and viewing Minecraft schematic files on the web.
 - [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.

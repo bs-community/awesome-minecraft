@@ -205,6 +205,7 @@
 
 ## Web Applications
 
+- [MCSift Nether Portal Calculator](https://mcsift.com/tools/portal-calculator/) - Free browser tool for converting signed Overworld and Nether X/Z coordinates in either direction at Minecraft's default 8:1 scale. Check nearby portals in-game to confirm the link. (Java and Bedrock)
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 

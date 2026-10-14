@@ -207,6 +207,7 @@
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
+- [Minecraft Schematic Generator](https://minecraftschematicgenerator.com/) - Web app (Java Edition) that turns a text description into a .litematic or .schem file with a material list; also has free guides such as [rotating a schematic in Litematica](https://minecraftschematicgenerator.com/litematica-move-and-rotate). Generated builds are paid per build.
 
 ## Softwares
 

@@ -200,7 +200,7 @@
 - [Sonic Ether](https://www.sonicether.com/) - Pathracing and other realistic shader packs.
 - [Sildur](https://sildurs-shaders.github.io/) - Shader packs even implementing Minecraft 1.16's built-in API.
 - [Potato](https://rre36.com/potato-shader) - A very lightweight shader pack for older or restrained PCs.
-- [ESBE 2G](https://mcbeeringi.github.io/esbe-2g/) - A shader pack for Bedrock Edition.
+- [ESBE 2G](https://github.com/McbeEringi/esbe-2g/releases) - A shader pack for Bedrock Edition.
 - [White Wolf Shader](https://github.com/NotSnipc/WhiteWolfShaders) - Shader pack for Bedrock Edition focused on improving your gameplay experience.
 
 ## Web Applications
@@ -257,7 +257,7 @@
 - [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.
 - [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
 - [BON 2](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
-- [Bearded Octo Nemesis](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
+- [Bearded Octo Nemesis](https://github.com/AartBluestoke/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
 ## License
 

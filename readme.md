@@ -241,6 +241,7 @@
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 - [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
 - [NBTEditor](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+- [Repoville](https://github.com/maximilianfeix/repoville) - Turn a git repository into a buildable city: exports .schem, .litematic or a world folder, or builds it live over RCON. (Node.js CLI)
 
 ### Launchers
 

@@ -206,6 +206,7 @@
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+- [GamerCubic Circle Generator](https://gamercubic.com/minecraft-circle-generator/) - Web application for generating circle and ellipse block blueprints with material counts, row-by-row instructions, and exports. (Web)
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares

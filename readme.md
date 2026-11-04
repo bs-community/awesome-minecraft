@@ -183,6 +183,7 @@
 - [Connect](https://connect.minekube.com/) - Open shared Minecraft network for advertising public and local host servers.
 - [LuckPerms](https://luckperms.net/) - Manage permissions.
 - [CoreProtect](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
+- [Kordon](https://github.com/KordonLabs/mc-kordon-plugin) - Open-source AntiVPN and anti-bot plugin for Velocity and BungeeCord networks. Blocks VPNs, proxies and bot waves at login; needs a free Kordon account.
 
 ## Resource Packs
 

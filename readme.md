@@ -258,6 +258,7 @@
 - [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
 - [BON 2](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
 - [Bearded Octo Nemesis](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
+- [Minecraft Sound Browser](https://github.com/DverkaSK/minecraft-sound-browser) - (IntelliJ IDEA plugin) Search and preview every vanilla Minecraft sound, with play buttons next to sound references in Java, Kotlin, JSON and mcfunction code.
 
 ## License
 

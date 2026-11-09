@@ -207,6 +207,8 @@
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
+- [Minecraft Server Status](https://github.com/ventrohosting/minecraft-server-status) - Check if a Java Edition server is online (version, players, MOTD, latency, SRV lookup) and embed a status badge.
+- [Minecraft Color Codes Generator](https://github.com/ventrohosting/minecraft-color-codes) - Color codes, hex colors and gradients with preview and output for MOTD, plugins, MiniMessage and tellraw.
 
 ## Softwares
 

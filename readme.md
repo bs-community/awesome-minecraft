@@ -206,6 +206,7 @@
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+- [MCToolLab](https://mctoollab.com/) - Free browser-based Minecraft skin editors and Java/Bedrock resource pack tools (Web; no account required).
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares

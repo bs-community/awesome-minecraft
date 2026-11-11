@@ -207,6 +207,7 @@
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
+- [minecraft-server-tools](https://github.com/Himtome1/minecraft-server-tools) - MIT, dependency-free JavaScript RAM calculator for modpack servers, MOTD generator (§ and MiniMessage) and Server List Ping status checker with an SSRF guard. Hosted: [RAM calculator](https://packyard.ca/tools/minecraft-server-ram-calculator), [MOTD generator](https://packyard.ca/tools/minecraft-motd-generator), [status checker](https://packyard.ca/tools/minecraft-server-status).
 
 ## Softwares
 

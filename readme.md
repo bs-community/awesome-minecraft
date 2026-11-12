@@ -250,6 +250,8 @@
 - [XMCL](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
 - [Polymerium](https://github.com/d3ara1n/Polymerium) - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
 
+- [CTF Launcher](https://home.ctf.mom/?lang=en) - Windows and Linux launcher with DNA links for sharing modpacks and selected configs, plus an optional AI assistant (alpha). Closed source, with optional Premium.
+
 ## Development
 
 - [FML Mod Development Tutorial](https://fmltutor.ustc-zzzz.net/) - (Chinese) Minecraft 1.8.9 FML Mod Development Tutorial.

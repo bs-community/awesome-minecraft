@@ -241,6 +241,7 @@
 - [Amidst](https://github.com/toolbox4minecraft/amidst) - Display an overview of a Minecraft world, without actually creating it.
 - [Amulet](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
 - [NBTEditor](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+- [mc-motd](https://github.com/must-be-the-Airconditi/mc-motd) - A Minecraft server MOTD viewer with a CLI, a local web UI and a desktop app. (Node.js / Java)
 
 ### Launchers
 

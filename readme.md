@@ -206,6 +206,7 @@
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+- [ShulkerHub](https://shulkerhub.com/) - Interactive Minecraft utility suite featuring a 2D/3D Nether Portal collision radar, mob despawn sphere visualizer, voxel sphere generator, and anvil enchantment optimizer.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares

@@ -221,6 +221,7 @@
 - [minecraft-docker](https://github.com/tywil04/minecraft-docker) - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) that embeds a discord bot for easy starting and stopping of the server.
 - [Minestom](https://minestom.net/) - Lightweight from-scratch server implementation.
 - [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
+- [MultiForge](https://github.com/0xnullsect0r/MultiForge) - Java. Fork of NeoForge which ticks world regions in parallel and runs most NeoForge mods unchanged.
 - [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
 - [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
 - [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API and is extensible to the Forge API and Bukkit API.

@@ -205,6 +205,7 @@
 
 ## Web Applications
 
+- [MC Seed Kit](https://mcseedkit.com/slime-chunk-finder/) - A browser-based slime chunk finder for Java and Bedrock Edition, with nearest chunks, block boundaries, and shareable map links. (Web / JavaScript)
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
